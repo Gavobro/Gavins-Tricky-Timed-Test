@@ -11,31 +11,31 @@ body {
 
 h1, h2 {
     color: var(--dark);
-    font-family: 'Montserrat', sans-serif;
+    font-family: sans-serif;
 }
 
 a {
     color: var(--purp);
-    font-family: 'Archivo', sans-serif;
+    font-family: sans-serif;
 }
 
 
 a:hover {
-    font-family: 'Archivo', sans-serif;
+    font-family: sans-serif;
 }
 
 #finalScore {
-    font-family: 'Montserrat', sans-serif;
+    font-family: sans-serif;
     font-weight: bold;
 }
 
 span, p {
-    font-family: 'Archivo', sans-serif;
+    font-family: sans-serif;
 }
 
 #questionTitle {
     font-size: 20px;
-    font-family: 'Montserrat', sans-serif;
+    font-family: sans-serif;
 }
 
 #answerCheck {
